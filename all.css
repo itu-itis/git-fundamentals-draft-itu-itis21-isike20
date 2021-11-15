@@ -3,6 +3,13 @@
 				list-style-type: square;
 			}
 
+			em {
+				color: green;
+				font-style: normal;
+				background-color: lightgrey;
+				font-weight: bold;
+			}
+
 
 			h1 {
 				font-size: 24pt;
@@ -11,16 +18,7 @@
 				font-family: tahoma, helvetica, sans-serif;
 			}
 			
-			em {
-				color: green;
-				font-style: normal;
-				background-color: lightgrey;
-				font-weight: bold;
-			}
-
-			ul {
-				list-style-type: square;
-			}
+			
 
 		</style>
 
