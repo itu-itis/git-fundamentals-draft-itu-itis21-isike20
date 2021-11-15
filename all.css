@@ -12,6 +12,11 @@
 				background-color: lightgrey;
 				font-weight: bold;
 			}
+
+			ul {
+				list-style-type: square;
+			}
+
 		</style>
 
 		
