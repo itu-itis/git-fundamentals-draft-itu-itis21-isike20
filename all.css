@@ -1,7 +1,5 @@
 <style type="text/css">
-			ul {
-				list-style-type: square;
-			}
+
 			em {
 				color: green;
 				font-style: normal;
@@ -16,9 +14,18 @@
 				font-family; tahoma, helvetica, sans-serif;
 			}
 
-			ul{
+			ul {
 				list-style-type: square;
 			}
+
+			em {
+				color: green;
+				font-style: normal;
+				background-color: lightgrey;
+				font-weight: bold;
+			}
+
+		
 			
 
 		</style>
