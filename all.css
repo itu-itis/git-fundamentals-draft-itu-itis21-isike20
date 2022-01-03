@@ -30,7 +30,7 @@
 			}
 
 			a:hover {
-				text-decoration: none;
+				text-decoration:overline;
 			}
 
 			li:first-child{
